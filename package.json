@@ -1,0 +1,16 @@
+{
+  "name": "lhl",
+  "version": "1.0.0",
+  "description": "leftPad module from npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "left-pad": "^1.2.0"
+  },
+  "devDependencies": {}
+}
